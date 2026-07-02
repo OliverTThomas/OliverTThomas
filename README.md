@@ -1,5 +1,5 @@
 # Oliver T Thomas
-### IT Service Delivery Engineer| MSP | Hertfordshire, UK
+### IT Service Delivery Engineer | MSP | Hertfordshire, UK
 
 Security monitoring, alert triage, and incident response across 30+ enterprise 
 client environments at Pinnaca Retail & IT Solutions.
