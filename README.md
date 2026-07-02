@@ -1,5 +1,5 @@
 # Oliver T Thomas
-### IT Service Delivery Engineer | Security Focus | MSP | Hertfordshire, UK
+### IT Service Delivery Engineer| MSP | Hertfordshire, UK
 
 Security monitoring, alert triage, and incident response across 30+ enterprise 
 client environments at Pinnaca Retail & IT Solutions.
@@ -53,4 +53,4 @@ Averis Technologies Ltd | Jan 2024 – Present
 
 ## 🔗 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/oliver-trevelyan-thomas)
-- 📧 olivertthomas@outlook.com
+
